@@ -1,4 +1,4 @@
-# PI Eletrotroca
+# PI Eletro
 
 ## Summary
 
@@ -32,4 +32,16 @@ The system promotes sustainability, social inclusion, and technological innovati
 
 ## How to use 
 
- 
+1. Download the application in a virtual store (Play Store / App Store)
+2. Start screen “Turn your junk into something useful!”
+3. Button (start)
+4. Login
+5. Facilitate first access (Google, Facebook or mobile)
+6. Fill in personal data (individual seller/donor company/recycler)
+7. Home screen
+8. Search bar/filters
+9. Item details (photos/information and contact for exchange)
+10. Action button
+11. Exchange chat “real-time chat interested”
+12. Post new ad
+13. (sale or recycling)
